@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ikilonova.github.io/demo-kb-seaside/sitemap.xml
